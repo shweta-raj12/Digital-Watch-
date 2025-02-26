@@ -1,5 +1,5 @@
 # Digital-Watch-
-This program displays the current time in hours, minutes, and seconds. The time is updated every second.
+# This program displays the current time in hours, minutes, and seconds. The time is updated every second.
 
 Please note that:
 
